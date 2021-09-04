@@ -1,7 +1,7 @@
 # Banking System
-This is my implementation of the Simple Banking System project from the JetBrains Academy as part of the Java developer track.
+This is my implementation of the [Simple Banking System project](https://hyperskill.org/projects/93?track=17) from the JetBrains Academy as part of the Java developer track.
 
-This project was a good introduction to how to interact with SQlite Database and applying basic OOP principles.
+This project was a good introduction to interaction with SQlite Database and applying basic OOP principles.
 
 Generated card numbers and verification were made based on the [Luhn algorithm](https://en.wikipedia.org/wiki/Luhn_algorithm).
 
