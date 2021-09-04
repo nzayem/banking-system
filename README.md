@@ -62,6 +62,9 @@ The program has 2 menus:
 
 ## Demo and ScreenShot: 
 
-https://github.com/nzayem/banking-system/blob/master/bank.gif
+
+```diff
+- Click the Gif for larger view -
+```
 
 <img src="https://github.com/nzayem/banking-system/blob/master/bank.gif" width="950" height="650">
