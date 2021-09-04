@@ -21,7 +21,7 @@ The program has 2 menus:
 ```
 
 
-  This menu allows the user to generate a card Number (following the Luhn Algorithm) and a pin that will be stored in the database by entering 1.
+  This menu allows the user to generate a card Number (following the Luhn Algorithm) and a pin that will be stored in the database by entering 1
   
   2 will prompt the user for the Card number and pin. The program will check if the submitted data much the stored number/pin in the database to allow the user in. 
   And the Account menu will appear. Otherwise, an error will be thrown.
